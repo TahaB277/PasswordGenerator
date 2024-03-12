@@ -1,2 +1,3 @@
 # PasswordGenerator
-Program that generates strong paswwords ranging from 4 to 15 characters, implemented in C
+Program that generates strong paswwords ranging from 4 to 15 characters, implemented in C.
+Uses basic concepts in C like pointers, dynamic memory allocation, array manipulation using pointers... 
